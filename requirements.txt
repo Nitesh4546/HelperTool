@@ -1,0 +1,11 @@
+tkinter
+time
+datetime
+send2trash
+cryptography
+requests
+beautifulsoup4
+os
+shutil
+random
+pillow
