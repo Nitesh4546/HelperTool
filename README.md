@@ -41,7 +41,7 @@ Application is built with various libraries to ensure functionality and user exp
 - **PIL (Pillow)**: To display and manage images, such as the waterfall background.
 
    ```bash
-   git clone https://github.com/yourusername/helpertool.git
+   git clone https://github.com/Nitesh4546/helpertool.git
    cd helpertool
    pip install -r requirements.txt
 
