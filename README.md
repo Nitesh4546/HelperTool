@@ -39,7 +39,7 @@ Application is built with various libraries to ensure functionality and user exp
 - **cryptography**: Implements encryption and decryption for user data security.
 - **requests** and **bs4 (BeautifulSoup)**: Requests checks for internet speed, while BeautifulSoup can be used for quote retrieval from online sources.
 - **PIL (Pillow)**: To display and manage images, such as the waterfall background.
-
+### Installation
    ```bash
    git clone https://github.com/Nitesh4546/helpertool.git
    cd helpertool
